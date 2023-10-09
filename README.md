@@ -9,6 +9,6 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 ## Requisitos:
 
-1. [] Crie o projeto `DesafioControleFluxo`
-2. [] Dentro do projeto, crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
-3. [] Dentro do projeto, crie a classe `ParametrosInvalidosException` que representará a exceção de negócio no sistema.# java_desafio_dio_controle_fluxo
+-  [ ] 1. Crie o projeto `DesafioControleFluxo`
+-  [ ] 2. Dentro do projeto, crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
+-  [ ] 3. Dentro do projeto, crie a classe `ParametrosInvalidosException` que representará a exceção de negócio no sistema.
