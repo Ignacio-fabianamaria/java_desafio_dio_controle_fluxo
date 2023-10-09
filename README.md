@@ -9,9 +9,9 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 ## Requisitos:
 
--  [ ] 1. Crie o projeto `DesafioControleFluxo`
--  [ ] 2. Dentro do projeto, crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
--  [ ] 3. Dentro do projeto, crie a classe `ParametrosInvalidosException` que representará a exceção de negócio no sistema.
+-  [x] 1. Crie o projeto `DesafioControleFluxo`
+-  [x] 2. Dentro do projeto, crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
+-  [x] 3. Dentro do projeto, crie a classe `ParametrosInvalidosException` que representará a exceção de negócio no sistema.
 
 ## Exemplo de Execução
 
@@ -19,25 +19,20 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 2. Navegue até o diretório onde o arquivo `Contador.java` está localizado.
 
-3. Compile o código-fonte usando o comando `javac`:
+3. Execute o programa usando o comando java.
 
-```sh
-   javac Contador.java
-```
-
-4. Execute o programa usando o comando java.
-
-5. O programa solicitará que você insira dois números inteiros. Por exemplo:
+4. O programa solicitará que você insira dois números inteiros. Por exemplo:
 
 ```sh
 Digite o primeiro parâmetro
 5
 Digite o segundo parâmetro
 10
-Neste exemplo, inserimos 5 como o primeiro parâmetro e 10 como o segundo parâmetro.
 ```
 
-6. O programa executará a função contar com os parâmetros fornecidos e imprimirá os resultados no terminal:
+Neste exemplo, inserimos 5 como o primeiro parâmetro e 10 como o segundo parâmetro.
+
+5. O programa executará a função contar com os parâmetros fornecidos e imprimirá os resultados no terminal:
 
 ```sh
 A subtração dos parâmetros: 10 e 5 foi: 5
